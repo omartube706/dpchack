@@ -443,7 +443,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`STOP CALLING I ME DO $SPAM TO SPAM ME I AM STEAVEN BOT[ " ${x} " ]`)
           .then(m => {
             count++;
           })
